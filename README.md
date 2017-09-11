@@ -1,2 +1,2 @@
 # Read-me
-Inside main.cpp :)
+Inside main.cpp

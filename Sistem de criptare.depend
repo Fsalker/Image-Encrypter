@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1436133108 source:g:\urias\1 - principal\programare 2014-2015\c++\sistem de criptare\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+
